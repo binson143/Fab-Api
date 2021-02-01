@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "loanId": 1,
+    "paidAmount": 10
+  },
+  {
+    "id": 2,
+    "loanId": 1,
+    "paidAmount": 50
+  },
+  {
+    "id": 3,
+    "loanId": 1,
+    "paidAmount": 40
+  },
+  {
+    "id": 4,
+    "loanId": 2,
+    "paidAmount": 100
+  },
+  {
+    "id": 5,
+    "loanId": 3,
+    "paidAmount": 10
+  },
+  {
+    "id": 6,
+    "loanId": 3,
+    "paidAmount": 150
+  },
+  {
+    "id": 7,
+    "loanId": 3,
+    "paidAmount": 100
+  },
+  {
+    "id": 8,
+    "loanId": 4,
+    "paidAmount": 300
+  },
+  {
+    "id": 9,
+    "loanId": 4,
+    "paidAmount": 300
+  },
+  {
+    "id": 10,
+    "loanId": 4,
+    "paidAmount": 300
+  },
+  {
+    "id": 11,
+    "loanId": 5,
+    "paidAmount": 10
+  },
+  {
+    "id": 12,
+    "loanId": 5,
+    "paidAmount": 10
+  },
+  {
+    "id": 13,
+    "loanId": 5,
+    "paidAmount": 10
+  },
+  {
+    "id": 14,
+    "loanId": 5,
+    "paidAmount": 10
+  },
+  {
+    "id": 15,
+    "loanId": 5,
+    "paidAmount": 10
+  },
+  {
+    "id": 16,
+    "loanId": 6,
+    "paidAmount": 125
+  }
+]
